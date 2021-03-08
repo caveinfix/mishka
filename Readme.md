@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Николай Морякин](https://up.htmlacademy.ru/adaptive/14/user/541999).
-* Наставник: [Владислав Балабанович](https://htmlacademy.ru/profile/balabanovich).
+* Наставник: [Тест](https://htmlacademy.ru/profile/balabanovich).
 
 ---
 
